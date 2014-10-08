@@ -1,0 +1,8 @@
+name: OneVsOne
+version: 0.10-DevBuild
+main: onevsone.CommandListener
+commands:
+   1vs1:
+     description: One vs One
+     permission: 1vs1.main
+     usage: What?
